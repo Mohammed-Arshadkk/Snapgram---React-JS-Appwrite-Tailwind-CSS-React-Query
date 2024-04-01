@@ -11,7 +11,7 @@ import {
   FormLabel,
   FormMessage,
 } from "@/components/ui/ui/form";
-import { useToast } from "../../components/ui/ui/toast";
+import { useToast } from "../../components/ui/ui/use-toast";
 import { Textarea, Input, Button } from "../../components/ui/ui";
 import { ProfileUploader, Loader } from "../../components/ui/shared";
 

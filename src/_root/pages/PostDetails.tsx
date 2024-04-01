@@ -1,7 +1,7 @@
 import { useParams, Link, useNavigate } from "react-router-dom";
 
-import { Button } from "../../components/ui/ui/button";
-import { Loader } from "../../components/ui/shared/Loader";
+import { Button } from "../../components/ui/ui";
+import { Loader } from "../../components/ui/shared";
 import { GridPostList, PostStats } from "../../components/ui/shared";
 
 import {
